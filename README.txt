@@ -11,8 +11,6 @@ To compile: g++ client.cpp -std=c++11 -lpthread -o client
 To execute: ./social_distancing [hostname] [port_number]
 (Note: An error message will appear showing the user this proper usage.)
 
-Provided in the .zip file are also .txt versions of server.cpp and client.cpp, should there be a problem opening them.
-
 Functions:
 (Generally, one of the integers for most functions is the socket.)
 
